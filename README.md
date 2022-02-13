@@ -12,4 +12,4 @@ A collection of API tests is included in the backend folders. Use it by simply i
 
 ### App Interface:
 ![alt text](https://github.com/longyi1207/coffee_shop/blob/main/1.jpg?raw=true)
-![alt text](https://github.com/longyi1207/coffee_shop/2.jpg?raw=true)
+![alt text](https://github.com/longyi1207/coffee_shop/blob/main/2.jpg?raw=true)
