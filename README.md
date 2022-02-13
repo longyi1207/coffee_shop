@@ -11,5 +11,5 @@ The frontend and backend codes reside in the two subdirectories. Instructions of
 A collection of API tests is included in the backend folders. Use it by simply importing it into the postman test collection and running it, while the server is running.
 
 ### App Interface:
-![alt text](https://github.com/longyi1207/coffee_shop/1.jpg?raw=true)
+![alt text](https://github.com/longyi1207/coffee_shop/blob/main/1.jpg?raw=true)
 ![alt text](https://github.com/longyi1207/coffee_shop/2.jpg?raw=true)
