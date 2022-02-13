@@ -7,9 +7,9 @@ The technology I use include Angular, Ionic, Flask, postgreSQL, Auth0, and Postm
 # How to Run the App
 The frontend and backend codes reside in the two subdirectories. Instructions of running them are provided in both subdirectories, in the README files. Please first run the backend server and then the frontend website.
 
-### How to Test
+# How to Test
 A collection of API tests is included in the backend folders. Use it by simply importing it into the postman test collection and running it, while the server is running.
 
-### App Interface:
+# App Interface:
 ![alt text](https://github.com/longyi1207/coffee_shop/blob/main/1.jpg?raw=true)
 ![alt text](https://github.com/longyi1207/coffee_shop/blob/main/2.jpg?raw=true)
